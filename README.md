@@ -1,2 +1,18 @@
-# web_site_20231D
-web site desenvolvido nas aulas de pensamento computacional.
+<!-- h1 VT BARBER SHOP -->
+
+HORARIO:
+das 08:00 ate 19:00
+
+CORTES:
+degradê:$25,00
+social:$15,00
+undercut:$30,00
+militar:$25,00
+sombranselha:$10,00
+
+E DE SUA PREFERENCIA!!
+
+AVISO:
+agende seu horario pra lança aquela regua de respeito!
+
+chamem!:55 4197070234.
